@@ -1,48 +1,28 @@
 ---
-title: Universal Post
-published: 2025-03-24
-draft: true
-# lang: ''
-description: This is a universal multilingual post with unspecified 'lang', displayed by default across all language-specific paths. Este es un artículo universal multilingüe sin definir 'lang', visible por defecto en todas las rutas de idiomas.
+title: La Nota Birichina
+published: 2024-01-01
+description: Una storia musicale per bambini che insegna il valore dell’ascolto, dell’inclusione e della propria unicità.
 ---
 
-```markdown
----
-title: Universal Post
-published: 2025-03-24
-# lang: ''
----
-```
+# La Nota Birichina
 
-<!-- German (de) -->
-Dies ist ein universeller mehrsprachiger Artikel ohne spezifizierte 'lang'-Angabe, der standardmäßig in allen sprachspezifischen Pfaden angezeigt wird.
+Una piccola nota fuori posto.  
+O forse… solo diversa.
 
-<!-- English (en) -->
-This is a universal multilingual post with unspecified 'lang', displayed by default across all language-specific paths.
+La Nota Birichina è una storia per bambini che parla di musica, emozioni e identità.
 
-<!-- Spanish (es) -->
-Este es un artículo universal multilingüe sin definir 'lang', visible por defecto en todas las rutas de idiomas.
+In un mondo fatto di armonie perfette, una nota sembra non trovare il suo spazio.  
+Ma è davvero un errore… o è proprio ciò che rende tutto più speciale?
 
-<!-- French (fr) -->
-Ceci est un article universel multilingue sans spécification de 'lang', affiché par défaut dans tous les chemins spécifiques aux langues.
+Un racconto delicato e coinvolgente che aiuta i più piccoli a capire che essere diversi non è un limite, ma una ricchezza.
 
-<!-- Japanese (ja) -->
-これは言語パラメータ（lang）未指定の汎用マルチリンガル記事です。全言語パスでデフォルト表示されます。
+## Per chi è questo libro
 
-<!-- Korean (ko) -->
-이것은 'lang'을 지정하지 않은 다국어 범용 기사로, 기본적으로 모든 언어별 경로에 표시됩니다.
+- Bambini della scuola primaria  
+- Genitori e insegnanti  
+- Percorsi educativi sull’ascolto e sull’inclusione  
 
-<!-- Polish (pl) -->
-To jest uniwersalny wielojęzyczny artykuł bez określonego parametru 'lang', wyświetlany domyślnie we wszystkich ścieżkach specyficznych dla języka.
+## Un messaggio importante
 
-<!-- Portuguese (pt) -->
-Este é um artigo universal multilínguas sem definir 'lang', visível por padrão através de todas as rotas de linguagem.
-
-<!-- Russian (ru) -->
-Это универсальная многоязычная статья без указания 'lang', отображаемая по умолчанию во всех языковых разделах.
-
-<!-- Chinese Simplified (zh) -->
-这是一篇未指定 lang 的多语言通用文章，默认显示在所有语言路径下。
-
-<!-- Chinese Traditional (zh-tw) -->
-這是一篇未指定 lang 的多語言通用文章，預設顯示於所有語言路徑下。
+Ogni nota ha il suo posto.  
+Anche quelle che sembrano fuori tempo.
