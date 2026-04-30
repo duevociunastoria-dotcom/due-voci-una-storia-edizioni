@@ -100,7 +100,6 @@ export const ui: Record<Language, Translation> = {
   tags: 'Categorie',
   about: 'Chi siamo',
   toc: 'Indice',
-},
   },
   'zh-tw': {
   title: 'Due Voci Una Storia Edizioni',
