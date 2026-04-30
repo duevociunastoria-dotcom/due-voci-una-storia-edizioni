@@ -1,5 +1,6 @@
 // Global Language Map
 export const langMap = {
+  'it': ['it-IT'],
   'de': ['de-DE'],
   'en': ['en-US'],
   'es': ['es-ES'],
