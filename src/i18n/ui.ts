@@ -11,6 +11,15 @@ interface Translation {
 }
 
 export const ui: Record<Language, Translation> = {
+  'it': {
+    title: 'Due Voci Una Storia Edizioni',
+    subtitle: 'Libri per bambini e ragazzi che non smettono di farsi domande',
+    description: 'Libri per bambini e ragazzi, misteri e romanzi per giovani lettori. Due Voci Una Storia Edizioni crea storie coinvolgenti che sviluppano curiosità, emozioni e pensiero critico.',
+    posts: 'Libri',
+    tags: 'Categorie',
+    about: 'Chi siamo',
+    toc: 'Indice',
+  },
   'de': {
     title: 'Neusatz',
     subtitle: 'Die Schönheit der Typografie wiederbeleben',
